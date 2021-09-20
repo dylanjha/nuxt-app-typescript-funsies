@@ -40,6 +40,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@mux/mux-video'
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
